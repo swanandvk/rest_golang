@@ -1,5 +1,7 @@
 # REST API USING GOLANG AND Gorilla Mux
 
+![go_lang_mascot_by_kirael_art-d7kunhu](https://user-images.githubusercontent.com/14261123/37197103-63b80d66-239f-11e8-8d04-ac39f3099de5.gif)
+
 `This is a sample CRUD app written using Go and Gorilla mux for routing`
 
 # Install mux to gopath
